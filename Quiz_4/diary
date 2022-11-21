@@ -1,0 +1,526 @@
+Trap_Simp_scr
+Output of Trapezoid Rule for pifunc
+Integrals
+
+n =
+
+    32
+
+
+int32 =
+
+   3.1414e+00
+
+
+n =
+
+    64
+
+
+int64 =
+
+   3.1416e+00
+
+
+n =
+
+   128
+
+
+int128 =
+
+   3.1416e+00
+
+Errors
+
+n =
+
+    32
+
+
+err32 =
+
+  -1.6276e-04
+
+
+n =
+
+    64
+
+
+err64 =
+
+  -4.0690e-05
+
+
+n =
+
+   128
+
+
+err128 =
+
+  -1.0173e-05
+
+Output of Trapezoid Rule for logderiv
+Integrals
+
+n =
+
+    32
+
+
+int32 =
+
+   1.0002e+00
+
+
+n =
+
+    64
+
+
+int64 =
+
+   1.0001e+00
+
+
+n =
+
+   128
+
+
+int128 =
+
+   1.0000e+00
+
+Errors
+
+n =
+
+    32
+
+
+err32 =
+
+   2.0769e-04
+
+
+n =
+
+    64
+
+
+err64 =
+
+   5.1935e-05
+
+
+n =
+
+   128
+
+
+err128 =
+
+   1.2985e-05
+
+Output of Trapezoid Rule for erfderiv  b=1
+Integrals
+
+n =
+
+    32
+
+
+int32 =
+
+   8.4263e-01
+
+
+n =
+
+    64
+
+
+int64 =
+
+   8.4268e-01
+
+
+n =
+
+   128
+
+
+int128 =
+
+   8.4270e-01
+
+Errors
+
+n =
+
+    32
+
+
+err32 =
+
+  -6.7565e-05
+
+
+n =
+
+    64
+
+
+err64 =
+
+  -1.6891e-05
+
+
+n =
+
+   128
+
+
+err128 =
+
+  -4.2227e-06
+
+Output of Trapezoid Rule for erfderiv  b=3
+Integrals
+
+n =
+
+    32
+
+
+int32 =
+
+   9.9998e-01
+
+
+n =
+
+    64
+
+
+int64 =
+
+   9.9998e-01
+
+Output of Simpson Rule for pifunc
+Integrals
+
+n =
+
+    32
+
+
+int32 =
+
+   3.1416e+00
+
+
+n =
+
+    64
+
+
+int64 =
+
+   3.1416e+00
+
+
+n =
+
+   128
+
+
+int128 =
+
+   3.1416e+00
+
+Errors and Error Estimates
+
+n =
+
+    32
+
+
+err32 =
+
+  -5.7687e-13
+
+
+err32_est =
+
+  -2.4253e-12
+
+
+n =
+
+    64
+
+
+err64 =
+
+  -9.3259e-15
+
+
+err64_est =
+
+  -3.7777e-14
+
+
+n =
+
+   128
+
+
+err128 =
+
+     0
+
+
+err128_est =
+
+  -6.8094e-16
+
+Output of Simpson Rule for logderiv
+Integrals
+
+n =
+
+    32
+
+
+int32 =
+
+   1.0000e+00
+
+
+n =
+
+    64
+
+
+int64 =
+
+   1.0000e+00
+
+
+n =
+
+   128
+
+
+int128 =
+
+   1.0000e+00
+
+Errors and Error Estimates
+
+n =
+
+    32
+
+
+err32 =
+
+   1.6973e-08
+
+
+err32_est =
+
+   1.6879e-08
+
+
+n =
+
+    64
+
+
+err64 =
+
+   1.0622e-09
+
+
+err64_est =
+
+   1.0607e-09
+
+
+n =
+
+   128
+
+
+err128 =
+
+   6.6408e-11
+
+
+err128_est =
+
+   6.6385e-11
+
+Output of Simpson Rule for erfderiv b=1
+Integrals
+
+n =
+
+    32
+
+
+int32 =
+
+   8.4270e-01
+
+
+n =
+
+    64
+
+
+int64 =
+
+   8.4270e-01
+
+
+n =
+
+   128
+
+
+int128 =
+
+   8.4270e-01
+
+Errors and Error Estimates
+
+n =
+
+    32
+
+
+err32 =
+
+   5.4980e-10
+
+
+err32_est =
+
+   5.4969e-10
+
+
+n =
+
+    64
+
+
+err64 =
+
+   3.4364e-11
+
+
+err64_est =
+
+   3.4362e-11
+
+
+n =
+
+   128
+
+
+err128 =
+
+   2.1473e-12
+
+
+err128_est =
+
+   2.1478e-12
+
+Output of Simpson Rule for erfderiv b=1
+Integrals
+
+n =
+
+    32
+
+
+int32 =
+
+   9.9998e-01
+
+
+n =
+
+    64
+
+
+int64 =
+
+   9.9998e-01
+
+
+n =
+
+   128
+
+
+int128 =
+
+   9.9998e-01
+
+Errors and Error Estimates
+
+n =
+
+    32
+
+
+err32 =
+
+  -6.6859e-10
+
+
+err32_est =
+
+  -6.5680e-10
+
+
+n =
+
+    64
+
+
+err64 =
+
+  -4.1961e-11
+
+
+err64_est =
+
+  -4.1775e-11
+
+
+n =
+
+   128
+
+
+err128 =
+
+  -2.6251e-12
+
+
+err128_est =
+
+  -2.6224e-12
+
+diary off
+romberg_scr
